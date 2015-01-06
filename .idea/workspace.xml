@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fc96c3b-b327-4e80-a127-1b2274fd48c6" name="Default" comment="chapter 02: Control Structures">
+    <list default="true" id="4fc96c3b-b327-4e80-a127-1b2274fd48c6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/test.js" afterPath="$PROJECT_DIR$/script/test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -41,9 +41,11 @@
       <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52397263" vertical-offset="0" max-vertical-offset="584">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="0.05821918" vertical-offset="0" max-vertical-offset="584">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -190,7 +192,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420513362722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chapter 03: Objects and Arrays">
+      <created>1420515143999</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1420515143999</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -256,7 +264,8 @@
     </option>
     <MESSAGE value="chapter 01: Basics" />
     <MESSAGE value="chapter 02: Control Structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 02: Control Structures" />
+    <MESSAGE value="chapter 03: Objects and Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 03: Objects and Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -273,9 +282,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52397263" vertical-offset="0" max-vertical-offset="584">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="0.05821918" vertical-offset="0" max-vertical-offset="584">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
